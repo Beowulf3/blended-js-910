@@ -14,3 +14,6 @@
       <p>Текст</p>
   </li>
 */
+
+import { initStorage } from './js/local-storage-api';
+import { getStorageTask } from './js/tasks';
